@@ -2,13 +2,9 @@
 
 Is an arduino based device that translates Open Sound Control messages to a modular synthesizer. Created while on a Toolmaker Residency at [Signal Culture](http://signalculture.org) in January of 2016.
 
-## Team
+## Hardware
 
-[Shawn Lawson](http://shawnlawson.com) 
-
-[Ryan Ross Smith](http://ryanrosssmith.com)
-
-[Frank Appio](https://github.com/fluxaxiom)
+[Arudino Mega](https://www.adafruit.com/product/191-2016-07-23?hidden=yes&main_page=product_info&products_id=191&gclid=CMvz4tWiuNMCFUxYDQodKUIC0w, [Adafruit DAC MCP4725](https://www.adafruit.com/product/935?gclid=CNjv_8ihuNMCFcmIswodVu8PJw), and [Adafruit I2C TCA9548A MultiPlexer](https://www.adafruit.com/product/2717?gclid=COeGstOhuNMCFRtYDQodKuYIFg)
 
 ## OSC Appio
 
@@ -45,6 +41,13 @@ Message format is { message, float, float, float, float }. See AppiOSC.ino for m
 - [Images](./Images) contains images of the final device.
 - [pythonGenerators](./pythonGenerators) contains python scripts for creating the wave tables.
 
+## Team
+
+[Shawn Lawson](http://shawnlawson.com) 
+
+[Ryan Ross Smith](http://ryanrosssmith.com)
+
+[Frank Appio](https://github.com/fluxaxiom)
 
 ## Sources
 
