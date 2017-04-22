@@ -4,7 +4,7 @@ Is an arduino based device that translates Open Sound Control messages to a modu
 
 ## Hardware
 
-[Arudino Mega](https://www.adafruit.com/product/191-2016-07-23?hidden=yes&main_page=product_info&products_id=191&gclid=CMvz4tWiuNMCFUxYDQodKUIC0w, [Adafruit DAC MCP4725](https://www.adafruit.com/product/935?gclid=CNjv_8ihuNMCFcmIswodVu8PJw), and [Adafruit I2C TCA9548A MultiPlexer](https://www.adafruit.com/product/2717?gclid=COeGstOhuNMCFRtYDQodKuYIFg)
+[Arudino Mega](https://www.adafruit.com/product/191-2016-07-23?hidden=yes&main_page=product_info&products_id=191&gclid=CMvz4tWiuNMCFUxYDQodKUIC0w), [Adafruit DAC MCP4725](https://www.adafruit.com/product/935?gclid=CNjv_8ihuNMCFcmIswodVu8PJw), and [Adafruit I2C TCA9548A MultiPlexer](https://www.adafruit.com/product/2717?gclid=COeGstOhuNMCFRtYDQodKuYIFg)
 
 ## OSC Appio
 
