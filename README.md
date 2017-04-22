@@ -1,6 +1,6 @@
 # AppiOSC
 
-Is an arduino based device that translates Open Sound Control messages to a modular synthesizer. Created while on a Toolmaker Residency at [Signal Culture](http://signalculture.org). 
+Is an arduino based device that translates Open Sound Control messages to a modular synthesizer. Created while on a Toolmaker Residency at [Signal Culture](http://signalculture.org) in January of 2016.
 
 ## Team
 
